@@ -1,0 +1,20 @@
+{
+  "name": "angular",
+  "description": "learn",
+  "main": "index.js",
+  "authors": [
+    "hanwen"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "learn"
+  ],
+  "homepage": "https://github.com/q919599367/angular",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
